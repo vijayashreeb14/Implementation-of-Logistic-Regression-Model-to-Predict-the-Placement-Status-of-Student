@@ -96,6 +96,7 @@ CLASSIFICATION REPORT:
 ![image](https://github.com/user-attachments/assets/4ed7303a-1746-436e-93b0-3355810c7466)
 
 PREDICTION OF LR:
+
 ![image](https://github.com/user-attachments/assets/69a042cb-4f54-4e6e-8822-83fe7187be0c)
 
 
